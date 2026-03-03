@@ -1,32 +1,40 @@
+<!-- ================= HEADER ================= -->
 
-<!-- PROFILE HEADER -->
 <h1 align="center">👾 Shambhavi Tripathi</h1>
 
-<h3 align="center">✨ Let's Build Something Amazing Together! ✨</h3>
-
 <h3 align="center">Backend Developer | Content Writer | UI/UX Designer</h3>
+
+<p align="center">
+✨ Let's Build Something Amazing Together! ✨
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=22&center=true&vCenter=true&width=500&lines=Backend+Developer;UI%2FUX+Designer;Problem+Solver;AI+Enthusiast;Open+to+Collaborations" />
 </p>
 
----
+<br/>
 
+<!-- ================= PROFILE IMAGE ================= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tripathishambhavi656-sketch/tripathishambhavi656-sketch/49d63885149a71115f345695d10ac3bec3f720f1/Main_photo2.png"
+       width="200"
+       style="border-radius: 999px;" />
+</p>
 ## 🚀 About Me
 
-- 🌱 Currently learning **Data Science principles & Emerging AI Tools**
-- 💡 Passionate about **Backend Development, UI/UX Designing & Problem Solving**
+- 🌱 Currently learning **Data Science & Emerging AI Tools**
+- 💡 Passionate about **Backend Development, UI/UX & Problem Solving**
 - 🤝 Open to **Collaborations**
-- 🎨 Strong interest in **Design Thinking & User Experience**
+- 🎨 Interested in **Design Thinking & User Experience**
 - 📊 Exploring **Big Data & Data Mining**
 
 ---
 
 ## 💼 Experience
 
-- 🎯 **Backend Developer Intern** – *InAmigos Foundation*
-- 🎨 **UI/UX Designer Trainee (3 Months)** – *Computer Society of India (CSI) Club*
-- 🖌️ **Designer Intern (4 Weeks)** – *CODSOFT*
+- 🎯 **Backend Developer Intern** – InAmigos Foundation  
+- 🎨 **UI/UX Designer Trainee (3 Months)** – Computer Society of India (CSI)  
+- 🖌️ **Designer Intern (4 Weeks)** – CODSOFT  
 
 ---
 
@@ -51,61 +59,49 @@
 ## 🚀 Projects
 
 ### 🚦 AI Based Traffic Management System
-> Developed an intelligent traffic control system using AI concepts to optimize traffic flow and reduce congestion.
+Developed an AI-driven system to optimize traffic flow and reduce congestion.
 
 ### 🏠 Airbnb Website Redesign
-> Redesigned Airbnb interface focusing on enhanced UX, accessibility & modern UI principles (CSI Society Project).
+Redesigned Airbnb’s interface focusing on UX, accessibility & modern UI principles.
 
 ### 📚 UI/UX Case Studies
-> Conducted multiple user research & design case studies to improve product usability and design structure.
+Conducted research-driven case studies to enhance usability and design systems.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tripathishambhavi656-sketch&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tripathishambhavi656-sketch&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tripathishambhavi656-sketch&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tripathishambhavi656-sketch&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-## 🏆 GitHub Activity Graph
-
-[![Shambhavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tripathishambhavi656-sketch&theme=tokyo-night)](https://github.com/tripathishambhavi656-sketch)
-
----
-
-## ✨ Random Coding Quote
-
-> "First, solve the problem. Then, write the code."
-
----
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/shambhavi-tripathi25/" target="_blank" style="margin-right: 25px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
-       alt="LinkedIn" width="45" height="45" />
+<a href="https://www.linkedin.com/in/shambhavi-tripathi25/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="42" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:tripathishambhavi656@gmail.com" style="margin-right: 25px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" 
-       alt="Gmail" width="45" height="45" />
+<a href="mailto:tripathishambhavi656@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="42" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/shambhavii_08" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" 
-       alt="Instagram" width="45" height="45" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="42" />
 </a>
 
 </p>
+
 ---
 
 ## 👀 Profile Visitors
 
-![Visitor Count](https://komarev.com/ghpvc/?username=tripathishambhavi656-sketch&color=blueviolet&style=flat-square)
-
----
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tripathishambhavi656-sketch&color=blueviolet&style=flat-square"/>
+</p>
