@@ -5,7 +5,7 @@
 <h3 align="center">Backend Developer | Content Writer | UI/UX Designer</h3>
 
 <p align="center">
-✨ Let's Build Something Amazing Together! ✨
+✨ Let us Build Something Amazing Together! ✨
 </p>
 
 <p align="center">
