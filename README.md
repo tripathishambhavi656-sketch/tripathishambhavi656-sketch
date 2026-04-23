@@ -2,7 +2,7 @@
 
 <h1 align="center">👾 Shambhavi Tripathi</h1>
 
-<h3 align="center">Backend Developer | Content Writer | UI/UX Designer</h3>
+<h3 align="center">frontend Developer | Content Writer | UI/UX Designer | Problem Solving/h3>
 
 <p align="center">
 ✨ Let us Build Something Amazing Together! ✨
@@ -23,7 +23,7 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning **Data Science & Emerging AI Tools**
-- 💡 Passionate about **Backend Development, UI/UX & Problem Solving**
+- 💡 Passionate about **Frontend Development, UI/UX & Problem Solving**
 - 🤝 Open to **Collaborations**
 - 🎨 Interested in **Design Thinking & User Experience**
 - 📊 Exploring **Big Data & Data Mining**
@@ -32,7 +32,7 @@
 
 ## 💼 Experience
 
-- 🎯 **Backend Developer Intern** – InAmigos Foundation  
+- 🎯 **Content Writer Intern** – InAmigos Foundation  
 - 🎨 **UI/UX Designer Trainee (3 Months)** – Computer Society of India (CSI)  
 - 🖌️ **Designer Intern (4 Weeks)** – CODSOFT  
 
