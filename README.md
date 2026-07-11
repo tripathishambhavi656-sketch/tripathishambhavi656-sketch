@@ -2,7 +2,7 @@
 
 <h1 align="center">👾 Shambhavi Tripathi</h1>
 
-<h3 align="center">frontend Developer | Content Writer | UI/UX Designer | Problem Solving/h3>
+<h3 align="center">frontend Developer | Content Writer | UI/UX Designer | Problem Solving</h3>
 
 <p align="center">
 ✨ Let us Build Something Amazing Together! ✨
