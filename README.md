@@ -14,12 +14,7 @@
 
 <br/>
 
-<!-- ================= PROFILE IMAGE ================= -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tripathishambhavi656-sketch/tripathishambhavi656-sketch/49d63885149a71115f345695d10ac3bec3f720f1/Main_photo2.png"
-       width="200"
-       style="border-radius: 999px;" />
-</p>
+
 ## 🚀 About Me
 
 - 🌱 Currently learning **Data Science & Emerging AI Tools**
