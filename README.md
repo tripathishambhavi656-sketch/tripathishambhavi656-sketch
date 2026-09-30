@@ -2,14 +2,14 @@
 
 <h1 align="center">👾 Shambhavi Tripathi</h1>
 
-<h3 align="center">frontend Developer | React • JavaScript • TypeScript | UI/UX Designer | Problem Solving</h3>
+<h3 align="center">Full Stack Developer | React • JavaScript • TypeScript | UI/UX Designer | Problem Solving</h3>
 
 <p align="center">
 ✨ Let us Build Something Amazing Together! ✨
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=22&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Designer;Problem+Solver;AI+Enthusiast;Open+to+Collaborations" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=22&center=true&vCenter=true&width=500&lines=Full Stack+Developer;UI%2FUX+Designer;Problem+Solver;AI+Enthusiast;Open+to+Collaborations" />
 </p>
 
 <br/>
@@ -18,7 +18,7 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning **Data Science & Emerging AI Tools**
-- 💡 Passionate about **Development, UI/UX & Problem Solving**
+- 💡 Passionate about **Full Stack Development, UI/UX & Problem Solving**
 - 🤝 Open to **Collaborations**
 - 🎨 Interested in **Design Thinking & User Experience**
 - 📊 Exploring **Big Data & Data Mining**
@@ -26,8 +26,8 @@
 ---
 
 ## 💼 Experience
-
-- 🎯 **Content Writer Intern** – InAmigos Foundation  
+- 🎯 **Full Stack Developer Intern** – Axonbloom Talent 
+- 🎯 **Web Developement Intern** – The Developers Arena  
 - 🎨 **UI/UX Designer Trainee (3 Months)** – Computer Society of India (CSI)  
 - 🖌️ **Designer Intern (4 Weeks)** – CODSOFT  
 
@@ -53,11 +53,14 @@
 
 ## 🚀 Projects
 
+###  URL Shortener Web Application
+Built a responsive URL Shortener using HTML, CSS, JavaScript, and API integration. Features include real-time URL shortening, copy-to-clipboard functionality, and a mobile-friendly interface.
+
+###  AI Resume Bullet Generator  
+Developed an AI-powered web application that helps users generate professional, ATS-friendly resume bullet points from basic inputs such as job role, skills, and work experience. The application leverages Large Language Models (LLMs) to produce concise, action-oriented resume content, enabling users to create impactful resumes more efficiently.
+
 ### 🚦 AI Based Traffic Management System
 Developed an AI-driven system to optimize traffic flow and reduce congestion.
-
-### 🏠 Airbnb Website Redesign
-Redesigned Airbnb’s interface focusing on UX, accessibility & modern UI principles.
 
 ### 📚 UI/UX Case Studies
 Conducted research-driven case studies to enhance usability and design systems.
