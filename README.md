@@ -59,10 +59,10 @@ Built a responsive URL Shortener using HTML, CSS, JavaScript, and API integratio
 ###  AI Resume Bullet Generator  
 Developed an AI-powered web application that helps users generate professional, ATS-friendly resume bullet points from basic inputs such as job role, skills, and work experience. The application leverages Large Language Models (LLMs) to produce concise, action-oriented resume content, enabling users to create impactful resumes more efficiently.
 
-### 🚦 AI Based Traffic Management System
+###  AI Based Traffic Management System
 Developed an AI-driven system to optimize traffic flow and reduce congestion.
 
-### 📚 UI/UX Case Studies
+###  UI/UX Case Studies
 Conducted research-driven case studies to enhance usability and design systems.
 
 ---
